@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 3,
+    "version" : "1.1",
+    "name" : "leads tracker",
+    "action" : {
+        "default_popup" : "practice3.html",
+        "default_icon" : "dollar sign.jpg"
+    },
+    "permissions" : [
+        "tabs"
+    ]
+}
